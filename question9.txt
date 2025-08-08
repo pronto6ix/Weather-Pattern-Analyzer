@@ -1,0 +1,4 @@
+#Century LandAverageTemperature LandMinTemperature LandMaxTemperature
+19 8.129 0.535 13.965
+20 8.638 0.178 14.394
+21 9.542 0.085 15.285
